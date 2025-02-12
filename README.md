@@ -1,8 +1,18 @@
-# React + Vite
+I've created comprehensive documentation for each file in your Next.js authentication project structure. The documentation includes:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Root configuration files
+App directory structure
+Authentication pages
+Dashboard pages
+API routes
+React components
+Library utilities
+Type definitions
+Prisma schema
 
-Currently, two official plugins are available:
+Each file includes:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Detailed code examples
+TypeScript types and interfaces
+Comments explaining key functionality
+Best practices for authentication
